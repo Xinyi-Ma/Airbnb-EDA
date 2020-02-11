@@ -1,0 +1,34 @@
+borough,num_attractions,num_underground
+Barking and Dagenham,5.0,5.0
+Barnet,9.0,13.0
+Bexley,4.0,0.0
+Brent,6.0,21.0
+Bromley,10.0,0.0
+Camden,27.0,1.0
+City of London,19.0,1.0
+Croydon,10.0,0.0
+Ealing,2.0,14.0
+Enfield,3.0,4.0
+Greenwich,12.0,1.0
+Hackney,12.0,1.0
+Hammersmith and Fulham,8.0,17.0
+Haringey,8.0,7.0
+Harrow,4.0,10.0
+Havering,8.0,4.0
+Hillingdon,10.0,15.0
+Hounslow,2.0,11.0
+Islington,13.0,11.0
+Kensington and Chelsea,16.0,12.0
+Kingston upon Thames,3.0,0.0
+Lambeth,19.0,8.0
+Lewisham,5.0,2.0
+Merton,3.0,1.0
+Newham,12.0,7.0
+Redbridge,1.0,10.0
+Richmond upon Thames,17.0,2.0
+Southwark,30.0,8.0
+Sutton,6.0,0.0
+Tower Hamlets,35.0,11.0
+Waltham Forest,2.0,4.0
+Wandsworth,11.0,6.0
+Westminster,90.0,32.0
